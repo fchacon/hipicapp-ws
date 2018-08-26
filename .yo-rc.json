@@ -1,0 +1,16 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "Node-Base",
+    "username": "Trabajando.com",
+    "userEmail": "desarrollo.core@trabajando.com",
+    "stack": "server",
+    "repoHostUrl": "gitlab2.tbj.com",
+    "userNameSpace": "SOA",
+    "client": "",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "node",
+    "secure": false,
+    "testsSeparated": true
+  }
+}
